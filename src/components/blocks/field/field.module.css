@@ -1,0 +1,6 @@
+.field {
+  position: relative;
+  width: 800px;
+  height: 800px;
+  background-color: var(--field-background);
+}

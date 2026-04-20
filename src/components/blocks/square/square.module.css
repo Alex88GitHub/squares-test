@@ -1,0 +1,29 @@
+.block {
+  width: 98px;
+  height: 98px;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.block.is-active {
+  border-style: dashed;
+}
+
+.block:hover {
+  cursor: pointer;
+}
+
+.color-1 {
+  background-color: #f595e5;
+  border: 2px solid #d408b2;
+}
+
+.color-2 {
+  background-color: #f7c03e;
+  border: 2px solid #db9b07;
+}
+
+.color-3 {
+  background-color: #9cf77e;
+  border: 2px solid #33ba06;
+}
